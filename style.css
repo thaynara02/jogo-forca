@@ -1,0 +1,46 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #ffffff;
+  }
+  
+  #jogo {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  input {
+    padding: 5px;
+    margin: 10px 0;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 5px;
+    background-color: #ff5a5a;
+    color: white;
+    border:#333;
+    border-style: double;
+
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #6f3232;
+  }
+  
+  #botao-dica {
+    background-color: #9eab12;
+    margin: 0 auto;
+    display: block;
+  }
+ 
+  #botao-dica:hover {
+    background-color: #005A7E;
+  }
+  
